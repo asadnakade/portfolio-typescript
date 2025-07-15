@@ -1,0 +1,26 @@
+Asad Nakade
+# asadnakade1@gmail.com  +91-7057275760 ð asadnakade § asadnakade
+SOFTWARE ENGINEER Experienced Software Engineer with 2+ years of expertise in designing, developing, and maintaining robust software solutions. Proficient in Java, Spring Boot, Hibernate, and React.js, with a strong focus on Test Driven Development (TDD), microservices architecture, and high-quality code delivery. Adept at improving system scalability and performance, with proven success in reducing process wait times and code duplication.
+Work Experience Software Engineer Capgemini Technology Service India Limited
+Dec 2022 – March 2025
+• Developed a robust API using Java Spring Boot and Hibernate to manage CRUD (Create, Read, Update, Delete) operations, employing Test-Driven Development (TDD) principles.
+• Developed and implemented a robust microservice and used spring cloud that efficiently handles connection between different services enhancing modularity and standalone services.
+• Spearheaded the design, development, and maintenance of Java-based applications, ensuring the delivery of high-quality, efficient, and maintainable code.
+• Performed comprehensive software analysis, unit testing, and debugging, leading to a 10% reduction in code duplication and a 15% increase in maintainability.
+• Engaged in technical reviews and collaborative meetings to refine and refactor software, focusing on en-hancing code quality, organization, and performance.
+• Evaluated legacy systems and recommended necessary patches, fixes, or design overhauls to resolve issues and improve system functionality by 10
+• Leveraged automated tools such as Jenkins and technologies to identify performance bottlenecks and bugs, implementing solutions to address and rectify these issues.
+Intern, JEE Full Stack with React Capgemini Technology Service India Limited
+July 2022 – Dec 2022
+• Full-Stack Development: Built and maintained web applications using React.js, Java, Spring Boot, and MySQL with RESTful APIs.
+• Frontend Development: Developed reusable React components , integrated APIs using Axios.
+• Backend Development: Designed and implemented RESTful APIs using Spring Boot, Spring Data JPA ,
+and Hibernate.
+Projects Product Review Analysis System:
+• Developed a robust Product Analysis platform with a scalable monolithic architecture, enabling seamless user and bookingmanagement. Aspect-OrientedProgramming(AOP)utilizedSpringAOPforlogging,errortracking, androle based authorization—simplifying code and securing REST endpoints with minimal boilerplate. Managed transactional integrity across services using Spring’s transaction management, ensuring consistency in complex Analysis workflows.
+• Tools Used: Java, Spring Boot, Spring Data JPA, PostgreSQL, REST APIs, Spring Security, Spring AOP, Mockito, JUnit, Monolithic Architecture, Maven.
+Technologies Languages: Java, JavaScript, SQL, HTML5, CSS. Frameworks and Libraries: Springboot, Maven, JPA - Hibernate, React JS, Bootstrap. Database Management : MySQL, PostgreSQL, MongoDB. Git, Postman, SonarQube, ActiveMQ, Spring Framework, SpringMVC Object-Oriented Programming (OOP), Low-Level Design (LLD), SOLID principles, Microservices Architecture, Unit Testing, Integration Testing, Continuous Integration/Continuous Deployment (CI/CD), RESTful API Development, Agile Methodologies.
+Certifications Microsoft Certified: Azure Fundamentals AZ-900 Microsoft Certified: Azure Developer Associate AZ-204
+Education Sanjay Ghodawat University, Kolhapur, Maharashtra, India Bachelor of Technology in Computer Science and Engineering
+Graduated: June 2022
+• GPA: 8.2/10
