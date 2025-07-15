@@ -41,7 +41,7 @@ export function ProjectsSection() {
         'Unit testing with Mockito and JUnit'
       ],
       featured: true,
-      gradient: 'from-indigo-500 to-purple-600'
+      gradient: 'from-slate-600 to-slate-700'
     },
     {
       id: 'project2',
@@ -57,7 +57,7 @@ export function ProjectsSection() {
         'Circuit breaker pattern with Hystrix',
         'Containerized deployment with Docker'
       ],
-      gradient: 'from-purple-500 to-pink-600'
+      gradient: 'from-blue-600 to-blue-700'
     },
     {
       id: 'project3',
@@ -73,7 +73,7 @@ export function ProjectsSection() {
         'Project and team management',
         'Responsive design with modern UI'
       ],
-      gradient: 'from-cyan-500 to-emerald-600'
+      gradient: 'from-gray-600 to-gray-700'
     }
   ];
 
@@ -91,10 +91,10 @@ export function ProjectsSection() {
     <section id="projects" className="py-20 bg-slate-900 relative">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-400 to-emerald-400 bg-clip-text text-transparent">
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-slate-200">
             Featured Projects
           </h2>
-          <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-emerald-400 mx-auto rounded"></div>
+          <div className="w-24 h-1 bg-slate-500 mx-auto rounded"></div>
         </div>
         
         <div className="grid lg:grid-cols-2 xl:grid-cols-3 gap-8" ref={targetRef}>

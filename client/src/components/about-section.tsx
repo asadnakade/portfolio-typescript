@@ -16,16 +16,16 @@ interface Counter {
 export function AboutSection() {
   const { targetRef, isIntersecting } = useIntersectionObserver();
   const [counters, setCounters] = useState<Counter[]>([
-    { label: "Years Experience", value: 0, color: "text-indigo-400" },
-    { label: "Projects Completed", value: 0, color: "text-purple-400" },
-    { label: "Certifications", value: 0, color: "text-cyan-400" },
+    { label: "Years Experience", value: 0, color: "text-blue-400" },
+    { label: "Projects Completed", value: 0, color: "text-slate-400" },
+    { label: "Certifications", value: 0, color: "text-gray-400" },
   ]);
 
   const skills: Skill[] = [
-    { name: "Java & Spring Boot", percentage: 90, color: "from-indigo-500 to-purple-500" },
-    { name: "React.js & Frontend", percentage: 85, color: "from-purple-500 to-pink-500" },
-    { name: "Database Management", percentage: 80, color: "from-cyan-500 to-blue-500" },
-    { name: "Microservices & Cloud", percentage: 75, color: "from-emerald-500 to-teal-500" },
+    { name: "Java & Spring Boot", percentage: 90, color: "from-blue-500 to-blue-600" },
+    { name: "React.js & Frontend", percentage: 85, color: "from-slate-500 to-slate-600" },
+    { name: "Database Management", percentage: 80, color: "from-gray-500 to-gray-600" },
+    { name: "Microservices & Cloud", percentage: 75, color: "from-blue-400 to-blue-500" },
   ];
 
   useEffect(() => {
@@ -60,10 +60,10 @@ export function AboutSection() {
     <section id="about" className="py-20 bg-slate-900 relative">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-slate-200">
             About Me
           </h2>
-          <div className="w-24 h-1 bg-gradient-to-r from-purple-400 to-cyan-400 mx-auto rounded"></div>
+          <div className="w-24 h-1 bg-slate-500 mx-auto rounded"></div>
         </div>
         
         <div className="grid lg:grid-cols-2 gap-12 items-center" ref={targetRef}>
