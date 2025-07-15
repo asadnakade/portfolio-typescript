@@ -28,7 +28,7 @@ export function HeroSection() {
           {/* Professional photo */}
           <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden border-3 border-slate-300 shadow-xl animate-float">
             <img 
-              src="/attached_assets/WhatsApp Image 2025-07-09 at 12.38.33_1752552854492.JPG" 
+              src="/profile.jpg" 
               alt="Asad Nakade - Professional Photo" 
               className="w-full h-full object-cover"
             />
